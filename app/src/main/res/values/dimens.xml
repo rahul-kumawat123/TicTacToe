@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_width">127dp</dimen>
+    <dimen name="btn_height">127dp</dimen>
+    <dimen name="btn_margin">5dp</dimen>
+    <dimen name="btn_text_size">50sp</dimen>
+    <dimen name="player1_points_tv_width">330dp</dimen>
+    <dimen name="player1_points_tv_height">61dp</dimen>
+    <dimen name="player2_points_tv_width">330dp</dimen>
+    <dimen name="player2_points_tv_height">61dp</dimen>
+    <dimen name="newGame_btn_width">201dp</dimen>
+    <dimen name="newGame_btn_height">62dp</dimen>
+</resources>
